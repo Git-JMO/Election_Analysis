@@ -12,6 +12,7 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 ### Total number of County votes and County Percentages:
 How many votes were cast in this congressional election?
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
 ![Total_Votes_County_Votes2](Resources/Total_Votes_County_Votes2.png)
 
 ### Candidate Votes and Percentages:
