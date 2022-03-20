@@ -1,8 +1,6 @@
 # Election_Analysis
 Conducting Election Analysis using Python and VSCode
 
-# Election Analysis
-
 ## Overview of Election Audit
 Overview of Election Audit: Explain the purpose of this election audit analysis.
 
