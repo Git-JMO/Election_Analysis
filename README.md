@@ -14,10 +14,10 @@ How many votes were cast in this congressional election?
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 ![Total_Votes_County_Votes2](Resources/Total_Votes_County_Votes2.png)
 
-### Candidate votes and Percentages:
+### Candidate Votes and Percentages:
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-![Candidate_percentage_votes](Resources/Candidate_percentage_votes)
+![Candidate_percentage_votes](Resources/Candidate_percentage_votes.png)
 
 ### Winner of the Election:
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?## Election Audit Summary:
