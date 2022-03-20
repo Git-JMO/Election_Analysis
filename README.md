@@ -4,7 +4,7 @@ Conducting Election Analysis using Python and VSCode
 ## Overview of Election Audit
 Overview of Election Audit: Explain the purpose of this election audit analysis.
 
-## Election Audit Results: Below is a brief analysis ofthe Election Outcome
+## Election Audit Results: Below is a brief analysis of the Election Outcome
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 ![Full_Vote_Results_Small](Resources/Full_Vote_Results_Small.png)
