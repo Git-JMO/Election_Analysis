@@ -17,7 +17,7 @@ Provide a breakdown of the number of votes and the percentage of total votes for
 ### Candidate Votes and Percentages:
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-![Candidate_percentage_votes](Resources/Candidate_percentage_votes.png)
+![Candidate_percentage_votes2](Resources/Candidate_percentage_votes2.png)
 
 ### Winner of the Election:
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?## Election Audit Summary:
