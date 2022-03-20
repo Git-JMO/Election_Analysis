@@ -23,10 +23,7 @@ Below is a detailed breadown of the Election Results in bulletized format. Addit
 ## Election Audit Summary:
 The use of Python and VSCode streamlined the election analysis process. After the code was modified, all deliverables that the Election Commission asked for could be presented at a click of a button. The code used for this most recent election could also be applied to future elections with minor changes. 
 * One modification that would most certainly have to be made is the path to the file. By introducting a new data source, we have to make sure we provide the appropriate file path in order to analyze the correct data. With a simple change to "file_to_load" and "file_to_save", you can start analyzing different election data. 
-* I would also recommend inserting a code that outputs graphs/charts to better understand the data. For example, when comparing county or candidate vote number and percentages, a simple pie chart or bar graph could have been used to visualize the data. By installing and importing "matplotlib" into our code, we can provide these types of visualizations and make our election analysis even more detailed. Below is a link to instructions on how to utilize "matplotlib." I also included a link to the code we used (Pypoll_Challenge.py) for the election analysis for your reference
+* I would also recommend inserting a code that outputs graphs/charts to better understand the data. For example, when comparing county or candidate vote number and percentages, a simple pie chart or bar graph could have been used to visualize the data. By installing and importing "matplotlib" into our code, we can provide these types of visualizations and make our election analysis even more detailed. Below is a link to instructions on how to utilize "matplotlib." I also included a link to the code we used ("Pypoll_Challenge.py") for the election analysis and the "election_results" csv.
   * https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
+  * [PyPoll_Challenge](PyPoll_Challenge.py)
   * [election_results](Resources/election_results.csv)
-
-
-
-[election_results](Resources/election_results.csv)
