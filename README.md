@@ -9,9 +9,7 @@ The purpose of this Election Audit was to provide the election commission additi
 Below is a detailed breadown of the Election Results in bulletized format. Additional data could be provided upon request.  
 
 * Total number of County votes and County Percentages:
-  * How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-
+  * As depicted in the image below, there were a total of 369,711 total votes cast in the election. Out of the 369,711 votes, Denver was the county that accounted for the highest number of votes [38,855] and highest percentage of the votes [82.8%], followed by Jefferson County and Arapahoe County respectively.  
 ![Total_Votes_County_Votes2](Resources/Total_Votes_County_Votes2.png)
 
 ### -Candidate Votes and Percentages:
