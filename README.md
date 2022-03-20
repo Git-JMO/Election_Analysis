@@ -7,7 +7,7 @@ Overview of Election Audit: Explain the purpose of this election audit analysis.
 ## Election Audit Results: Below is a brief analysis ofthe Election Outcome
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
-![Full_Vote_Results](Resources/Full_Vote_Results.png)
+![Full_Vote_Results_Small](Resources/Full_Vote_Results_Small.png)
 
 ### Total number of County votes and County Percentages:
 How many votes were cast in this congressional election?
