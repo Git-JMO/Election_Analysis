@@ -3,11 +3,10 @@ Conducting Election Analysis using Python and VSCode
 
 ## Overview/Purpose of Election Audit
 
-The purpose of this Election Audit was to provide the election commission additional election data along with a written analysis highlighting voter turnout for each county, percentage of votes from each county, the county with the highest turnout, and of course the winner of the election. Of note, in order to analyze the data, python and the vscode platform were used.  
+The purpose of this Election Audit was to provide the election commission additional election data along with a written analysis highlighting voter turnout for each county, percentage of votes from each county, the county with the highest turnout, and of course the winner of the election. Of note, in order to analyze the data, python and the vscode platform were used.
 
 ## Election Audit Results: 
-Below is the bulleted  Election_Audit_Results
-
+Below is a detailed breadown of the Election Results in list format. Additional data could be provided upon request.  
 
 ### -Total number of County votes and County Percentages:
 How many votes were cast in this congressional election?
