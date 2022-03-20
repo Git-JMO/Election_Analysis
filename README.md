@@ -13,7 +13,7 @@ Below is a detailed breadown of the Election Results in bulletized format. Addit
 ![Total_Votes_County_Votes2](Resources/Total_Votes_County_Votes2.png)
 
 * Candidate Votes and Percentages:
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  * Out of the 369,711 total votes, [73.8%] were cast for Diana Degette with her final result of [272,892] votes. This was significantly higher than the other candidates. As depicted in the below image, Charles Casper Stockham only accounted for [23%] of the total votes while Raymon Anthony Doane accounted for lowest percentage of votes [3.1%]. See below image for full detail.  
 ![Candidate_percentage_votes2](Resources/Candidate_percentage_votes2.png)
 
 ### -Winner of the Election:
