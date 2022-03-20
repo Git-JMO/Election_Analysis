@@ -9,16 +9,15 @@ The purpose of this Election Audit was to provide the election commission additi
 Below is a detailed breadown of the Election Results in bulletized format. Additional data could be provided upon request.  
 
 * Total number of County votes and County Percentages:
-  * As depicted in the image below, there were a total of 369,711 total votes cast in the election. Out of the 369,711 votes, Denver was the county that accounted for the highest number of votes [306,055] and highest percentage of the votes [82.8%], followed by Jefferson County and Arapahoe County respectively. See below image for the full detail. 
+  * As depicted in the image below, there were a total of 369,711 total votes cast in the election. Out of the 369,711 votes, Denver was the county that accounted for the highest number of votes [306,055], highest turnout, and highest percentage of the votes [82.8%], followed by Jefferson County and Arapahoe County respectively. See below image for the full detail. 
 ![Total_Votes_County_Votes2](Resources/Total_Votes_County_Votes2.png)
 
 * Candidate Votes and Percentages:
-  * Out of the 369,711 total votes, [73.8%] were cast for Diana Degette with her final result of [272,892] votes. This was significantly higher than the other candidates. As depicted in the below image, Charles Casper Stockham only accounted for [23%] of the total votes while Raymon Anthony Doane accounted for lowest percentage of votes [3.1%]. See below image for full detail.  
+  * Out of the 369,711 total votes, [73.8%] were cast for Diana DeGette with her final result of [272,892] votes. This was significantly higher than the other candidates. As depicted in the below image, Charles Casper Stockham only accounted for [23%] of the total votes while Raymon Anthony Doane accounted for lowest percentage of votes [3.1%]. See below image for full detail including total number of votes for each candidate.  
 ![Candidate_percentage_votes2](Resources/Candidate_percentage_votes2.png)
 
-### -Winner of the Election:
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?## Election Audit Summary:
-
+* Winner of the Election:
+  * As mentioned above, Diana DeGette was the candidate with the highest number of votes and highest vote percentage which makes her the winner of the election. Below is winning result. Congratulations to Diana DeGette!
 ![Winner_of_Election2](Resources/Winner_of_Election2.png)
 
 ## Election Audit Summary:
