@@ -22,7 +22,7 @@ Which candidate won the election, what was their vote count, and what was their 
 ### Winner of the Election:
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?## Election Audit Summary:
 
-![Winner_of_Election](Resources/Winner_of_Election.png)
+![Winner_of_Election2](Resources/Winner_of_Election2.png)
 
 ## Election Audit Summary
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
